@@ -2,7 +2,7 @@
 👀 I’m interested in full stack development and software engineering.
 🌱 I’m currently learning html, css and javascript.
 You can find out more about me here: https://ighellache.github.io/
-https://github-readme-streak-stats.herokuapp.com/ighellache
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ighellache)](https://git.io/streak-stats)
 <!---
