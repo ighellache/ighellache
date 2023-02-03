@@ -20,6 +20,9 @@ https://github.com/fac26/week2-database-nkndi
 ## Applying authentication knowledge using cookies, sanitisation and validation:
 https://github.com/fac26/week3-auth-linnk
 
+## Fun coding challenge I enjoyed working on:
+https://github.com/ighellache/TPXImpact-Challenge
+
 <!---
 ighellache/ighellache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
