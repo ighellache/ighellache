@@ -13,6 +13,13 @@ https://fac26.github.io/Iman-Georgia-API/
 
 ## Testing project (open console):
 https://fac26.github.io/Iman-Dominic.L-Testing/
+
+## Book recommendations app using NodeJS, expressJS, SQLite and fly.io for deployment:
+https://github.com/fac26/week2-database-nkndi
+
+## Applying authentication knowledge using cookies, sanitisation and validation:
+https://github.com/fac26/week3-auth-linnk
+
 <!---
 ighellache/ighellache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
