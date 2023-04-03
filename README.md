@@ -3,7 +3,7 @@
 🌱 I’m currently learning html, css and javascript.
 You can find out more about me here: https://ighellache.github.io/
 
-Here are the links to the projects that I have worked on in peer programming:
+Here are the links to the projects that I have worked on:
 
 ## Agency page:
 https://fac26.github.io/thepurpleelephant/
@@ -22,6 +22,28 @@ https://github.com/fac26/week3-auth-linnk
 
 ## Fun coding challenge I enjoyed working on:
 https://github.com/ighellache/TPXImpact-Challenge
+
+## Database-A library app where you can add in your favourite books as recommendations for others.
+https://github.com/fac26/week2-database-nkndi
+
+## Authentication-A website named "Corporategirl" where you can read secrets about companies - inspired by gossipgirl, fishbowl and glassdoor. A user can create an account or sign-in to post and delete a secret they know about the company. 
+https://github.com/fac26/week3-auth-linnk
+
+## Serverside app-A place to post about your favourite films :)
+Our app allows the user to create an account and log-in subsequently. The app's purpose is to allow the user to upload stills from their favourite movie.
+https://github.com/fac26/week-4-serverside-lid
+
+## Clientside app-A spell game built with React featuring Banana Joe and VsCode
+https://github.com/fac26/week5-clientside-GullyMans
+
+## Fullstack app-We were instructed to build a simple e-commerce shopping site. Fruit King sells fruits, categorised by citrus and berry fruits.
+https://github.com/fac26/week6-fullstack-king
+
+## In house project- a web app that allows members of a household or communal space receive automated fair rotations for tasks they want to share between them
+https://github.com/fac26/goth-kking
+
+## Tech for better - Hope- It puts those in need of food directly in touch with retailers that find themselves with excess stock at the end of the day. 
+https://github.com/fac26/week-10-12-TFB-Eric-gild
 
 <!---
 ighellache/ighellache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
