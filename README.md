@@ -1,6 +1,5 @@
 👋 Hi, I’m @ighellache
 👀 I’m interested in full stack development and software engineering.
-You can find out more about me here: https://ighellache.github.io/
 
 Here are the links to the projects that I have worked on:
 
@@ -34,9 +33,6 @@ https://github.com/fac26/week5-clientside-GullyMans
 
 ## Fullstack app-We were instructed to build a simple e-commerce shopping site. Fruit King sells fruits, categorised by citrus and berry fruits.
 https://github.com/fac26/week6-fullstack-king
-
-## In house project- a web app that allows members of a household or communal space receive automated fair rotations for tasks they want to share between them
-https://github.com/fac26/goth-kking
 
 ## Tech for better - Hope- It puts those in need of food directly in touch with retailers that find themselves with excess stock at the end of the day. 
 https://github.com/fac26/week-10-12-TFB-Eric-gild
